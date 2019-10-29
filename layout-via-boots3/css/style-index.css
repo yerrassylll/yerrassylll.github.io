@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, sans-serif;
+	font-size: 16px;
+}
+
+.container p {
+	text-align: center;
+	text-transform: uppercase;
+	margin: 30px 0 30px 0;
+}
+
+.row img {
+	width: 120px;
+	height: 120px;
+	display: block;
+	margin: 0 auto;
+}
