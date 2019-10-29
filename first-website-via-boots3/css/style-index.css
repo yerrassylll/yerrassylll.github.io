@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, sans-serif;
+	font-size: 20px;
+}
+
+.text-header {
+	text-align: center;
+	margin: 0 0 60px 0;
+}
+
+.text-header p {
+	padding: 20px 0 0 0;
+}
+
+.text-header strong {
+	font-size: 26px;
+}
+
+.form {
+	border: 5px solid blue;
+	padding: 35px 20px;
+}
+
+input {
+	margin: 30px 0 30px 0;
+}
+
+.form-btn {
+	background-color: blue;
+}
+
+.text-second {
+	font-weight: 900;
+	margin: 50px 0 0 0;
+}
+
+.feature {
+	margin: 30px 0 0 0;
+}
+
+.feature-box {
+	height: 160px;
+}
+
+.feature-box p {
+	width: 200px;
+	display: block;
+	text-align: center;
+	margin: 20px auto;
+}
+
+.feature-btn {
+	display: block;
+	margin: 30px auto;
+}
+
+.gallery {
+	margin: 0 0 40px 0;
+}
+
+.gallery-img {
+	margin: 0 0 30px 0;
+}
+
+
