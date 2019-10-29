@@ -1,8 +1,7 @@
 # yerrassylll.github.io
 # Erasyl Meiramov
-#Здесь я храню сверстанные макеты
-#Here I keep layouts made up
-My first website
+>Здесь я храню сверстанные макеты
+>Here I keep layouts made up
 
 [My first website] (#https://yerrassylll.github.io/firstwebsite/)
 
