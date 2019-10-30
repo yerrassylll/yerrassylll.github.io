@@ -7,7 +7,7 @@
 
 [My first website via Bootstrap 3] (https://yerrassylll.github.io/first-website-via-boots3/)
 
-[Fix menu] (https://yerrassylll.github.io/https://yerrassylll.github.io/menu-lesson/)
+[Fix menu] (https://yerrassylll.github.io/menu-lesson/)
 
 [Adaptive-demo] (https://yerrassylll.github.io/adaptive-demo/)
 
