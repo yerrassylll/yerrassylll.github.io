@@ -3,7 +3,7 @@
 >Здесь я храню сверстанные макеты
 >Here I keep layouts made up
 
-[My first website] (#https://yerrassylll.github.io/firstwebsite/)
+[My first website] (https://yerrassylll.github.io/firstwebsite/)
 
 [My first website via Bootstrap 3] (#https://yerrassylll.github.io/first-website-via-boots3/)
 
