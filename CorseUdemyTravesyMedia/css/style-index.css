@@ -2,3 +2,44 @@
 	margin: 0;
 	padding: 0;
 }
+
+body {
+	width: 100%;
+	height: 3000px;
+}
+
+.cotainer {
+	width: 100%;
+	height: 3000px;
+}
+
+.block-cont {
+	width: 100%;
+	height: 100%;
+}
+
+/* media breakpoints */
+
+@media (max-width: 1200px) {
+	.block-cont {
+		background-color: red;
+	}
+}
+
+@media (max-width: 992px) {
+	.block-cont {
+		background-color: green;
+	}
+}
+
+@media (max-width: 768px) {
+	.block-cont {
+		background-color: blue;
+	}
+}
+
+@media (max-width: 576px) {
+	.block-cont {
+		background-color: #ccc;
+	}
+}
